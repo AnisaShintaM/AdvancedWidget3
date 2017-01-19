@@ -5,9 +5,13 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
+    String nama;
+    ActivityMainBinding binding;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        binding = DataBindingUtil.setContentView(this, R.layout.activity_main);
+        binding.setNama(nama);
     }
 }
