@@ -1,8 +1,8 @@
 # AdvancedWidget3
 
 **JUDUL PROJECT** <br>
-*Advanced Widget 2* <br>
-*Praktek Widget Lanjutan 2 (Butter Knife)* <br>
+*Advanced Widget 3* <br>
+*Praktek Widget Lanjutan 3 (Data Binding)* <br>
 
 **SCREEN SHOOT** <br>
 ![Screenshot 1] (https://s12.postimg.org/mdpgoir19/aw3.png)
